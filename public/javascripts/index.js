@@ -49,7 +49,7 @@ $(document).ready(function () {
           id: 'Gas',
           type: 'linear',
           scaleLabel: {
-            labelString: 'Gas(%)',
+            labelString: 'Gas(mg/m^3)',
             display: true
           },
           position: 'right'
